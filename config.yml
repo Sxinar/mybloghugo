@@ -41,8 +41,8 @@ languages:
                 - name: Discord
                   url: https://discord.gg/ahpmTvhVmp
 
-    tr:
-        languageName: ":tr:"
+    fr:
+        languageName: ":fr:"
         languageAltTitle: Trk
         weight: 2
         title: turkce
