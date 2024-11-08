@@ -24,8 +24,8 @@ languages:
     params:
       languageAltTitle: Turkish
       homeInfoParams:
-        Title: "Sxinar"
-        Content: Burası benim teknoloji çiftliğim.
+      Title: "Sxinar"
+      Content: Burası benim teknoloji çiftliğim.
    menu:
        main:
         - identifier: Anasayfa
