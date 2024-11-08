@@ -1,6 +1,6 @@
-baseURL: "https://sxi.loopstack.com.tr"
-title: "Sxinar"
-DefaultContentLanguage: en
+baseURL: "https://,sxi.loopstack.com.tr" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: PaperMod
+paginate: 5
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -16,9 +16,8 @@ minify:
     disableXML: true
     # minifyOutput: true
 
-
 languages:
-      en:
+    en:
         languageName: "English"
         weight: 1
         taxonomies:
@@ -43,9 +42,9 @@ languages:
 
     fr:
         languageName: ":fr:"
-        languageAltTitle: Trk
+        languageAltTitle: French
         weight: 2
-        title: turkce
+        title: PaperModL2
         taxonomies:
           category: FRcategories
           tag: FRtags
