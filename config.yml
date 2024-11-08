@@ -16,7 +16,45 @@ minify:
     disableXML: true
     # minifyOutput: true
 
+
 languages:
+  tr:
+    languageName: ":tr:"
+    weight: 1
+    params:
+      languageAltTitle: Turkish
+      homeInfoParams:
+        Title: "Sxinar"
+        Content: Burası benim teknoloji çiftliğim.
+            
+
+menu:
+  main:
+    - identifier: Anasayfa
+      name: Anasayfa
+      url: /
+      weight: 1
+    - identifier: Blog
+      name: Blog
+      url: /post/
+      weight: 2
+    - identifier: İletişim
+      name: İletişim
+      url: /page/iletisim/
+      weight: 6
+    - identifier: Kategoriler
+      name: Kategoriler
+      url: /tags/
+      weight: 3
+    - identifier: Arşiv
+      name: "Arşiv"
+      url: /arsiv/
+      weight: 5
+    - identifier: Ara
+      name: "Ara \U0001f50d"
+      url: /ara/
+      weight: 7
+
     en:
         languageName: "English"
         weight: 1
