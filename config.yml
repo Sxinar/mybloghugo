@@ -29,23 +29,23 @@ languages:
       menu:
         main:
             - name: Anasayfa
-            url: /
-            weight: 1
+              url: /
+              weight: 1
             - name: Blog
-            url: /post/
-            weight: 2
+              url: /post/
+              weight: 2
             - name: İletişim
-            url: /page/iletisim/
-            weight: 6
+              url: /page/iletisim/
+              weight: 6
             - name: Kategoriler
-            url: /tags/
-            weight: 3
+              url: /tags/
+              weight: 3
             - name: "Arşiv"
-            url: /arsiv/
-            weight: 5
+              url: /arsiv/
+              weight: 5
             - name: "Ara \U0001f50d"
-            url: /ara/
-            weight: 7
+              url: /ara/
+              weight: 7
 
     en:
         languageName: "English"
