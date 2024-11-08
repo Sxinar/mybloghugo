@@ -41,40 +41,11 @@ languages:
                 - name: Discord
                   url: https://discord.gg/ahpmTvhVmp
 
-    tr: 
-      languageName: ":tr:"
-      weight: 4
-      params:
-        languageAltTitle: Turkish
-        homeInfoParams:
-      Title: "Sxinar"
-      Content: Burası benim teknoloji çiftliğim.
-      menu:
-        main:
-            - name: Anasayfa
-              url: /
-              weight: 1
-            - name: Blog
-              url: /post/
-              weight: 2
-            - name: İletişim
-              url: /page/iletisim/
-              weight: 6
-            - name: Kategoriler
-              url: /tags/
-              weight: 3
-            - name: "Arşiv"
-              url: /arsiv/
-              weight: 5
-            - name: "Ara \U0001f50d"
-              url: /ara/
-              weight: 7
-    
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
+    tr:
+        languageName: ":tr:"
+        languageAltTitle: Trk
         weight: 2
-        title: PaperModL2
+        title: turkce
         taxonomies:
           category: FRcategories
           tag: FRtags
