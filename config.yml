@@ -20,29 +20,33 @@ minify:
 languages:
   tr:
     languageName: ":tr:"
-    weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-   menu:
-       main:
-        - identifier: Anasayfa
-            name: Anasayfa
+    weight: 1
+    params:
+      languageAltTitle: Turkish
+      homeInfoParams:
+        Title: "Sxinar"
+        Content: Burası benim teknoloji çiftliğim.
+
+    menu:
+        main:
+            - name: Anasayfa
             url: /
             weight: 1
-        - identifier: Blog
-            name: Blog
+            - name: Blog
             url: /post/
             weight: 2
-        - identifier: İletişim
-            name: İletişim
+            - name: İletişim
             url: /page/iletisim/
             weight: 6
+            - name: Kategoriler
+            url: /tags/
+            weight: 3
+            - name: "Arşiv"
+            url: /arsiv/
+            weight: 5
+            - name: "Ara \U0001f50d"
+            url: /ara/
+            weight: 7
 
     en:
         languageName: "English"
