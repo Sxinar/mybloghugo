@@ -43,7 +43,7 @@ languages:
 
     tr: 
       languageName: ":tr:"
-      weight: 1
+      weight: 4
       params:
         languageAltTitle: Turkish
         homeInfoParams:
