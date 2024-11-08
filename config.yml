@@ -20,12 +20,15 @@ minify:
 languages:
   tr:
     languageName: ":tr:"
-    weight: 1
-    params:
-      languageAltTitle: Turkish
-      homeInfoParams:
-      Title: "Sxinar"
-      Content: Burası benim teknoloji çiftliğim.
+    weight: 3
+        title: PaperMod RTL
+        homeInfoParams:
+            Title: "Hi there \U0001F44B"
+            Content: Welcome to RTL layout
+        taxonomies:
+          category: FAcategories
+          tag: FAtags
+          series: FAseries
    menu:
        main:
         - identifier: Anasayfa
