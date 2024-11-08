@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8d1c8c4-f7bb-483a-b966-e843748ffbd0/deploy-status)](https://app.netlify.com/sites/sxib/deploys)
+
+
 # Hugo-PaperMod-NetlifyCMS-Starter
 
 This repository should help you get started with using Hugo and the Papermod theme quickly on Netlify, NetlifyCMS and Netlify Identity.  It's based on the [hugo-Papermod example site](https://github.com/adityatelange/hugo-PaperMod), with NetlifyCMS support added in the /static/admin directory.  
