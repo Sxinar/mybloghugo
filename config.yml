@@ -1,6 +1,6 @@
-baseURL: "https://sxinar.github.io"
+baseURL: "https://sxi.loopstack.com.tr"
 title: "Sxinar"
-DefaultContentLanguage: tr
+DefaultContentLanguage: en
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
